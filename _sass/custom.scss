@@ -8,14 +8,27 @@
     }
 }
 
-.site-header,
-.site-footer {
+.site-header {
     background-color: #e6920b;
 }
 
 .page-content {
-    background-color: aqua;
+    background-color: #1969ff;
+
+    a,
+    a:visited,
+    a:hover,
+    a:active,
+    a:focus {
+        color: #f8eb4e;
+        outline: none;
+    }
+
+    a:hover {
+        color: #ffffff;
+    }
 }
+
 
 .break {
     word-break: break-all;
