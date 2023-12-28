@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: fTAILS on Fantom
+description: Meme coin on Fantom
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.ftails.com" # the base hostname & protocol for your site, e.g. http://example.com
 
