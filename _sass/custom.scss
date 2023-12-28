@@ -15,3 +15,20 @@
     word-break: break-all;
     overflow-wrap: anywhere;
 }
+
+.social-icons {
+    a {
+        display: inline-block;
+        margin-right: 10px;
+
+        &:last-child {
+            margin-right: 0;
+        }
+    }
+
+    img {
+        display: block;
+        width: auto;
+        height: auto;
+    }
+}
